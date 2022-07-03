@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/huddle/static/css/main.50bca76d.css",
+    "main.js": "/huddle/static/js/main.109159c1.js",
+    "index.html": "/huddle/index.html",
+    "main.50bca76d.css.map": "/huddle/static/css/main.50bca76d.css.map",
+    "main.109159c1.js.map": "/huddle/static/js/main.109159c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50bca76d.css",
+    "static/js/main.109159c1.js"
+  ]
+}
